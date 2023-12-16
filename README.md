@@ -72,3 +72,8 @@ Convert the screen in real time.
 ```bash
 python3 main.py
 ```
+
+### Example
+
+![result.png](./README/result.png)
+![result.gif](./README/result.gif)
